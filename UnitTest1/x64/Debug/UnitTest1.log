@@ -1,0 +1,5 @@
+﻿  UnitTest1.cpp
+C:\Users\User\source\repos\Lab6.1\UnitTest1\UnitTest1.cpp(15,8): warning C4805: '==': unsafe mix of type 'double' and type 'bool' in operation
+  (compiling source file '/UnitTest1.cpp')
+  
+  UnitTest1.vcxproj -> C:\Users\User\source\repos\Lab6.1\x64\Debug\UnitTest1.dll
